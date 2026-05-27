@@ -1,0 +1,294 @@
+
+
+================================================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Note 1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+================================================================================
+Note index: 1
+Note Date: 2024-04-10
+Date of Birth: 1981-02-14
+Note:
+
+Date of service: April 10, 2024
+Reason for visit: Hepatology follow-up for metabolic dysfunction-associated steatohepatitis (MASH) and type 2 diabetes mellitus. Fibrosis staging with transient elastography today.
+
+Diagnosis:
+Metabolic Dysfunction-Associated Steatohepatitis (MASH) with Moderate Fibrosis (F2 by FibroScan)
+
+History of Present Illness:
+Patient is a 43-year-old male with a history of overweight/obesity (BMI 31.2 kg/m²), type 2 diabetes mellitus, hypertriglyceridemia, and hypertension presenting for ongoing hepatology follow-up. He was first referred to hepatology 18 months ago after his primary care physician identified persistently elevated liver enzymes. He was diagnosed with MASH in the context of metabolic syndrome. He is intolerant of metformin due to significant gastrointestinal side effects (nausea and diarrhea), and was instead started on dapagliflozin (SGLT2 inhibitor) for glycaemic management, which he has tolerated well.
+
+He denies alcohol use. He has no history of viral hepatitis, autoimmune liver disease, or drug-induced liver injury. He denies jaundice, abdominal distension, or easy bruising. He reports intermittent fatigue, which he attributes to poor sleep. Appetite is intact. No weight loss.
+
+An MRI liver with contrast was performed today (04/10/2024), demonstrating diffuse hepatic steatosis. Transient elastography (FibroScan) was also performed today, showing a liver stiffness measurement of 8.4 kPa, consistent with moderate fibrosis (F2 by Metavir). FIB-4 index was calculated and documented for the first time today.
+
+Past Medical History:
+* Type 2 diabetes mellitus (diagnosed 2020)
+* Metabolic dysfunction-associated steatohepatitis (MASH)
+* Hypertension
+* Hypertriglyceridemia
+* Overweight/obesity (BMI 31.2 kg/m²)
+* Obstructive sleep apnoea (on CPAP therapy)
+
+Past Surgical History:
+* Tonsillectomy (2001)
+
+Social History:
+* Tobacco Use: Never smoker
+* Alcohol use: Denies any alcohol use
+* Drug use: None
+* Occupation: Software engineer (sedentary work)
+
+Family History:
+* Father: Type 2 diabetes, hypertension
+* Mother: Obesity, hyperlipidemia
+* Brother: Non-alcoholic fatty liver disease (NAFLD)
+
+Medications:
+* dapagliflozin (FARXIGA) 10 mg tablet: Take 1 tablet by mouth once daily in the morning.
+* amlodipine 5 mg tablet: Take 1 tablet by mouth once daily.
+* rosuvastatin 20 mg tablet: Take 1 tablet by mouth once daily at bedtime.
+* omega-3 fatty acids (LOVAZA) 1 g capsule: Take 2 capsules by mouth twice daily with meals.
+* pantoprazole 40 mg tablet: Take 1 tablet by mouth once daily before breakfast.
+
+Note: Metformin previously trialled and discontinued due to intolerance (severe GI side effects).
+No sulfonylurea, GLP-1 agonist, or DPP-4 inhibitor prescribed.
+
+Allergies:
+* No Known Drug Allergies
+
+Review of Systems:
+* GENERAL: Mild intermittent fatigue. No fever, chills, or weight loss.
+* GI: No abdominal pain, nausea, or vomiting. No jaundice or dark urine. No diarrhea or constipation.
+* SKIN: No rash, pruritus, or jaundice.
+* CARDIOVASCULAR: No chest pain or palpitations. No leg swelling.
+* RESPIRATORY: No shortness of breath. Uses CPAP nightly.
+* ENDOCRINE: Home blood glucose monitoring shows improvement since starting dapagliflozin. No hypoglycaemic episodes.
+* NEURO: No headaches or neurological symptoms.
+* MUSCULOSKELETAL: Mild lower back discomfort (chronic).
+
+Physical Examination:
+Vitals:
+BP 136/84 | Pulse 72 | Temp 36.6 °C (97.9 °F) | Resp 14 | Wt 98 kg | BMI 31.2 kg/m²
+
+GENERAL: Well-appearing male, overweight habitus, in no acute distress
+HEENT: Sclera anicteric, no icterus
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs
+LUNGS: Clear to auscultation bilaterally
+ABDOMEN: Soft, mild hepatomegaly. Liver palpable 2 cm below the costal margin. No splenomegaly. No ascites. No tenderness.
+EXTREMITIES: No peripheral edema
+SKIN: No spider angiomata, palmar erythema, or caput medusae
+
+Labs:
+
+CBC:
+Collection Date: 04/10/2024
+
+Result           Value     Ref Range
+WBC              7.4       3.7 - 11.0 k/uL
+RBC              5.02      4.2 - 6.0 m/uL
+Hemoglobin       15.1      13.0 - 17.0 g/dL
+Hematocrit       44.8      39.0 - 51.0 %
+Platelet Count   198       150 - 400 k/uL
+Neutrophils %    61.3      %
+Abs Neut         4.54      1.45 - 7.50 k/uL
+Lymphocytes %    27.8      %
+
+COMP METABOLIC PANEL:
+Collection Date: 04/10/2024
+
+Result                               Value     Ref Range
+Albumin                              4.3       3.9 - 4.9 g/dL
+Bilirubin, Total                     0.6       0.2 - 1.3 mg/dL
+Alkaline Phosphatase                 102       38 - 113 U/L
+AST                                  52        14 - 40 U/L (H)
+ALT                                  65        10 - 54 U/L (H)
+Glucose                              144       74 - 99 mg/dL (H)
+BUN                                  16        9 - 24 mg/dL
+Creatinine                           0.96      0.73 - 1.22 mg/dL
+Estimated Glomerular Filtration Rate 82        >=60 mL/min/1.73m²
+Sodium                               140       136 - 144 mmol/L
+Potassium                            4.3       3.7 - 5.1 mmol/L
+
+LIPID PANEL:
+Collection Date: 04/10/2024
+
+Result           Value     Ref Range
+Total Cholesterol 221      <200 mg/dL (H)
+LDL              136       <100 mg/dL (H)
+HDL              41        >40 mg/dL (borderline)
+Triglycerides    268       <150 mg/dL (H)
+
+HEMOGLOBIN A1C:
+Collection Date: 04/10/2024
+
+Result     Value    Ref Range
+HbA1c      7.9%     <5.7% (normal)
+
+Imaging:
+MRI Liver with and without contrast (04/10/2024): Diffuse hepatic steatosis identified with mild to moderate degree of hepatic fat deposition. No surface nodularity or morphological features of cirrhosis. No focal hepatic lesion. No biliary ductal dilatation. No splenomegaly. No ascites. Patent portal vein.
+
+Transient Elastography (FibroScan) (04/10/2024): Liver stiffness measurement: 8.4 kPa. IQR/M ratio: 10%. Compatible with moderate fibrosis (F2 by Metavir). CAP score: 298 dB/m (moderate-to-severe steatosis S2-S3).
+
+Assessment and Plan:
+
+#1 MASH with moderate fibrosis (F2 by FibroScan)
+MASH confirmed in the context of metabolic syndrome, obesity, T2DM, and hypertriglyceridemia. FibroScan today shows liver stiffness of 8.4 kPa consistent with F2 fibrosis. No evidence of cirrhosis clinically or radiographically. FIB-4 calculated and documented today for the first time: (43 × 52) / (198 × √65) = 1.40 (low-to-intermediate risk). Repeat FibroScan in 12 months. Lifestyle modification reinforced. No current approved MASH pharmacotherapy initiated at this stage; will reassess at next visit.
+
+#2 Type 2 Diabetes Mellitus (HbA1c 7.9%)
+Suboptimally controlled. Metformin previously discontinued due to GI intolerance. Continue dapagliflozin 10 mg daily — SGLT2 inhibitor has evidence for hepatic benefit in MASH. Consider addition of GLP-1 agonist at next visit if HbA1c target not met.
+
+#3 Hypertriglyceridaemia / Dyslipidemia
+TG 268 mg/dL, HDL 41 mg/dL. Continue omega-3 fatty acids and rosuvastatin. Dietary counselling provided.
+
+#4 Obstructive Sleep Apnoea
+Adherent to CPAP therapy. OSA management has metabolic and hepatic benefits. Continue current therapy.
+
+Patient verbalized understanding and agreed with plan. Return to clinic in 3 months.
+================================================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Note 2 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+================================================================================
+Note index: 2
+Note Date: 2024-11-15
+Date of Birth: 1969-03-20
+Note:
+
+Date of service: November 15, 2024
+Reason for visit: Hepatology follow-up for MASH-related cirrhosis. Liver biopsy performed today for formal fibrosis staging. Ongoing management of type 2 diabetes mellitus.
+
+Diagnosis:
+Metabolic Dysfunction-Associated Steatohepatitis (MASH) with Established Cirrhosis (F4 by liver biopsy, Child-Pugh A)
+
+History of Present Illness:
+Patient is a 55-year-old female with a long-standing history of type 2 diabetes mellitus, obesity, hyperlipidemia, and hypothyroidism presenting for ongoing hepatology follow-up. She was diagnosed with MASH-related cirrhosis on clinical and radiological grounds in 2022 following CT imaging showing diffuse hepatic steatosis with cirrhotic morphology and a FIB-4 score of 4.08 documented at that time. She has been under regular 6-monthly surveillance since diagnosis. She underwent a percutaneous liver biopsy today (11/15/2024) to formally stage fibrosis and assess disease activity for potential clinical trial enrolment.
+
+She denies any alcohol use, past or present. She has no history of viral hepatitis, autoimmune hepatitis, primary biliary cholangitis, or Wilson's disease. She denies jaundice, haematemesis, melaena, or confusion. She reports moderate fatigue and mild ankle swelling. No significant recent weight change.
+
+She is managed for T2DM with metformin and liraglutide (GLP-1 agonist). No SGLT2 inhibitor, sulfonylurea, or DPP-4 inhibitor has been prescribed. A CT abdomen with contrast was performed today (11/15/2024) as part of routine 6-monthly HCC surveillance, demonstrating diffuse hepatic steatosis with cirrhotic morphology. No focal hepatic lesion identified.
+
+FIB-4 score was previously calculated and documented (2022) as 4.08. Today's value recalculated as 4.24 (high risk, consistent with cirrhosis).
+
+Past Medical History:
+* Type 2 diabetes mellitus (diagnosed 2011)
+* MASH-related cirrhosis (Child-Pugh A, MELD-Na 8; diagnosed 2022)
+* Hypothyroidism (on levothyroxine)
+* Hypertension
+* Hyperlipidemia
+* Obesity (BMI 32.6 kg/m²)
+
+Past Surgical History:
+* Upper endoscopy — no varices identified (2023)
+* Right knee arthroscopy (2015)
+
+Social History:
+* Tobacco Use: Former smoker, quit 2008 (10 pack-year history)
+* Alcohol use: Denies any alcohol use, past or present
+* Drug use: None
+* Occupation: Retired nurse
+
+Family History:
+* Father: Type 2 diabetes, ischaemic heart disease
+* Mother: Obesity, hypothyroidism
+* Sister: Type 2 diabetes, MASH (diagnosed 2021)
+
+Medications:
+* metformin (GLUCOPHAGE) 500 mg tablet: Take 1 tablet by mouth twice daily with meals (dose-reduced given hepatic impairment).
+* liraglutide (VICTOZA) 1.2 mg/dose subcutaneous injection: Inject 1.2 mg subcutaneously once daily.
+* levothyroxine (SYNTHROID) 100 mcg tablet: Take 1 tablet by mouth once daily on an empty stomach.
+* amlodipine 10 mg tablet: Take 1 tablet by mouth once daily.
+* atorvastatin (LIPITOR) 20 mg tablet: Take 1 tablet by mouth once daily at bedtime (reduced dose given cirrhosis).
+* spironolactone 50 mg tablet: Take 1 tablet by mouth once daily (for portal hypertension management).
+* propranolol 20 mg tablet: Take 1 tablet by mouth twice daily (for portal hypertension prophylaxis).
+
+No sulfonylurea, SGLT2 inhibitor, or DPP-4 inhibitor prescribed.
+
+Allergies:
+* Codeine: Nausea and vomiting
+* Aspirin: Bronchospasm
+
+Review of Systems:
+* GENERAL: Moderate fatigue. No fever or chills. Stable weight.
+* GI: Mild abdominal fullness. No nausea or vomiting. No haematemesis or melaena. No diarrhea or constipation. No jaundice.
+* SKIN: No pruritus or jaundice.
+* CARDIOVASCULAR: No chest pain or palpitations. Mild bilateral ankle swelling.
+* RESPIRATORY: No dyspnoea at rest. Mild exertional breathlessness.
+* NEURO: No confusion or personality change. No asterixis.
+* ENDOCRINE: Blood glucose levels well-controlled on current regimen.
+* MUSCULOSKELETAL: Bilateral knee discomfort (chronic). Mild leg cramps at night.
+
+Physical Examination:
+Vitals:
+BP 130/80 | Pulse 66 | Temp 36.5 °C (97.7 °F) | Resp 16 | Wt 94 kg | BMI 32.6 kg/m²
+
+GENERAL: Well-appearing female, obese habitus, mild fatigue, in no acute distress
+HEENT: Sclera anicteric, no icterus. Mild temporal muscle wasting.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs
+LUNGS: Clear to auscultation bilaterally
+ABDOMEN: Mildly distended. Hepatomegaly (liver span 15 cm by percussion). Splenomegaly appreciated (spleen palpable 2 cm below left costal margin). No ascites on exam. No caput medusae.
+EXTREMITIES: 1+ bilateral pitting ankle oedema
+SKIN: Two small spider angiomata on upper chest. No palmar erythema.
+
+Labs:
+
+CBC:
+Collection Date: 11/15/2024
+
+Result           Value     Ref Range
+WBC              4.8       3.7 - 11.0 k/uL
+RBC              3.88      3.8 - 5.2 m/uL
+Hemoglobin       12.1      12.0 - 16.0 g/dL
+Hematocrit       36.2      35.0 - 47.0 %
+Platelet Count   142       150 - 400 k/uL (L)
+Neutrophils %    57.6      %
+Abs Neut         2.76      1.45 - 7.50 k/uL
+Lymphocytes %    30.2      %
+
+COMP METABOLIC PANEL:
+Collection Date: 11/15/2024
+
+Result                               Value     Ref Range
+Albumin                              3.7       3.9 - 4.9 g/dL (L)
+Bilirubin, Total                     1.2       0.2 - 1.3 mg/dL
+INR                                  1.3       0.9 - 1.1 (mildly elevated)
+Alkaline Phosphatase                 118       38 - 113 U/L (H)
+AST                                  71        14 - 40 U/L (H)
+ALT                                  42        10 - 54 U/L
+Glucose                              128       74 - 99 mg/dL (H)
+BUN                                  19        9 - 24 mg/dL
+Creatinine                           1.02      0.55 - 1.02 mg/dL
+Estimated Glomerular Filtration Rate 62        >=60 mL/min/1.73m²
+Sodium                               137       136 - 144 mmol/L
+Potassium                            4.5       3.7 - 5.1 mmol/L
+
+LIPID PANEL:
+Collection Date: 11/15/2024
+
+Result           Value     Ref Range
+Total Cholesterol 192      <200 mg/dL
+LDL              118       <100 mg/dL (H)
+HDL              34        >50 mg/dL (L)
+Triglycerides    188       <150 mg/dL (H)
+
+HEMOGLOBIN A1C:
+Collection Date: 11/15/2024
+
+Result     Value    Ref Range
+HbA1c      6.9%     <5.7% (normal)
+
+Imaging:
+CT Abdomen with contrast (11/15/2024): Diffuse hepatic steatosis with cirrhotic morphology (nodular hepatic contour, right lobe atrophy, caudate lobe hypertrophy). No focal hepatic lesion identified. Mild splenomegaly (spleen 13.8 cm). No ascites. No biliary ductal dilatation. Patent portal and hepatic veins. No portal vein thrombosis.
+
+Assessment and Plan:
+
+#1 MASH-related cirrhosis (Child-Pugh A, MELD-Na 8) — liver biopsy today confirms F4
+Cirrhosis etiology: metabolic/MASH. Liver biopsy (11/15/2024) confirms established cirrhosis: F4 fibrosis (Metavir), NAS score 4/8, moderate steatosis, mild lobular inflammation, hepatocyte ballooning present. No evidence of HCC on CT today. FIB-4 previously documented as 4.08 in 2022; today's recalculated FIB-4: (55 × 71) / (142 × √42) = 4.24 (high risk, consistent with cirrhosis). Continue 6-monthly surveillance CT for HCC per AASLD guidelines. Repeat upper endoscopy in 2 years for variceal surveillance. Continue nadolol-equivalent (propranolol) for portal hypertension prophylaxis.
+
+#2 Type 2 Diabetes Mellitus (HbA1c 6.9%) — well controlled
+Continue metformin (dose-reduced) and liraglutide. GLP-1 agonist has favourable hepatic and weight effects. Well-tolerated. No hypoglycaemic episodes reported.
+
+#3 Dyslipidemia
+HDL low, TG mildly elevated. Continue low-dose atorvastatin. Monitor LFTs.
+
+#4 Hypothyroidism
+Continue levothyroxine 100 mcg. TSH to be rechecked at next visit.
+
+Patient verbalized understanding and agreed with plan. Return to clinic in 3 months.

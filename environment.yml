@@ -1,0 +1,28 @@
+name: clinical-triage-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python & Environment
+  - python=3.10
+  - pip
+  - jupyterlab          
+
+  # Data Tabulation & Processing 
+  - pandas
+  - numpy
+  - scikit-learn        
+
+  # Advanced ML & Interpretability (NEW ADDITIONS)
+  - xgboost             # Our primary ensemble model for MASH-CKM tabular data
+  - shap                # Required to explain feature contributions to the doctors
+
+  # Natural Language Processing 
+  - spacy               
+
+  # Pip-specific installations
+  - pip:
+    - ollama            
+    - transformers      
+    - tensorflow-macos  
+    - tensorflow-metal

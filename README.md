@@ -1,4 +1,4 @@
-# Team Name — MASH/CKM Early Risk Detection
+# Team Name — MASH Early Risk Detection
 
 ## Problem
 Patients with MASH and cardiometabolic-kidney risk are often detected late.
